@@ -45,14 +45,14 @@ In fact, the family of models that describes genuine correspondences is the one 
 <hr>
 
 ### Demo
-In [this](Hashing-for-Structure-based-Anomaly-Detection/tree/main/PreferenceIForest) folder you can find a Python implementation of the RuzHash-iForest algorithm, together with its competitor PI-Forest (we renamed it Voronoi-iForest in our implementation).
-In [this](Hashing-for-Structure-based-Anomaly-Detection/tree/main/RuzHash-iForest_demo.py) file you can find a demo of the RuzHash-iForest algorithm.
+In [this](PreferenceIForest) folder you can find a Python implementation of the RuzHash-iForest algorithm, together with its competitor PI-Forest (we renamed it Voronoi-iForest in our implementation).
+In [this](RuzHash-iForest_demo.py) file you can find a demo of the RuzHash-iForest algorithm.
 In order to play with the demo you just need to:
 1. Clone the repo locally.
-2. Install dependencies contained in the [requirements](Hashing-for-Structure-based-Anomaly-Detection/tree/main/requirements.txt) file.
-3. Execute [RuzHash-iForest_demo](Hashing-for-Structure-based-Anomaly-Detection/tree/main/RuzHash-iForest_demo.py).
+2. Install dependencies contained in the [requirements](requirements.txt) file.
+3. Execute [RuzHash-iForest_demo](RuzHash-iForest_demo.py).
 
-In [this](Hashing-for-Structure-based-Anomaly-Detection/tree/main/datasets) folder you can find the datasets on which the algorithm has been validated in [[1]](#1), while in [this](Hashing-for-Structure-based-Anomaly-Detection/tree/main/images) folder you can find the qualitative results.
+In [this](datasets) folder you can find the datasets on which the algorithm has been validated in [[1]](#1), while in [this](images) folder you can find the qualitative results.
 
 <hr>
 
